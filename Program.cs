@@ -12,6 +12,7 @@ namespace HelloZH
         {
             Console.WriteLine("Hye");
             Console.WriteLine("Hye Git, This is my first change");
+            Console.WriteLine("I made this changes on my branch");
         }
     }
 }
