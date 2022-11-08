@@ -11,6 +11,7 @@ namespace HelloZH
         static void Main(string[] args)
         {
             Console.WriteLine("Hye");
+            Console.WriteLine("Hye Git, This is my first change");
         }
     }
 }
